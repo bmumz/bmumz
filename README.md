@@ -6,7 +6,9 @@ Hi 👋, I'm Brandi— a full <s>snack  🌮🍣🍕🥓 </s>  stack web develop
 
  I am currently working for a web design and development agency- contributing across the whole stack in projects for small, medium and large clients. I really enjoy it, because it gives me a chance to dabble in so many different technologies. Currently working with ⚛️ React/React Native, Node.js, SQL (PostgreSQL) and NoSQL (Firebase) databases.
 ### 📈 Github Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bmumz&theme=blue-green)
+
 
 ### 💻 😍 Some Technologies I Enjoy  
 
@@ -21,9 +23,6 @@ Hi 👋, I'm Brandi— a full <s>snack  🌮🍣🍕🥓 </s>  stack web develop
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### When I'm not coding, you can find me...
@@ -33,5 +32,14 @@ Hi 👋, I'm Brandi— a full <s>snack  🌮🍣🍕🥓 </s>  stack web develop
 -   🍲 whipping up something in the kitchen! Thai, Korean and Italian dishes are my favourite.
 
 ### Let's Catch Up!
+
+<div>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/brandicodes?color=%23000000)](https://www.twitter.com/brandicodes)
+
+
+</div>
+<div>
+
 [![Instagram](https://img.shields.io/badge/@brandicodes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brandicodes)
+</div>
