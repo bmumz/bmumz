@@ -24,12 +24,6 @@ Hi 👋, I'm Brandi— a full <s>snack  🌮🍣🍕🥓 </s>  stack web develop
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### When I'm not coding, you can find me...
-
--   📚 listening to/reading a non-fiction book. Malcolm Gladwell, Jordan Peterson and James Clear's novels have changed my perspective on life!
--   🐈 petting my cat, Reya.
--   🍲 whipping up something in the kitchen! Thai, Korean and Italian dishes are my favourite.
-
 ### Let's Catch Up!
 
 <div>
