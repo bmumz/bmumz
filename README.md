@@ -4,7 +4,6 @@
 ### 👩🏼‍💻 Brandi Mummery— AKA @brandiCodes
 Hi 👋, I'm Brandi— a full <s>snack  🌮🍣🍕🥓 </s>  stack web developer based out of Toronto, Ontario 🍁. 
 
- I am currently working for a web design and development agency- contributing across the whole stack in projects for small, medium and large clients. I really enjoy it, because it gives me a chance to dabble in so many different technologies. Currently working with ⚛️ React/React Native, Node.js, SQL (PostgreSQL) and NoSQL (Firebase) databases.
 ### 📈 Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bmumz&theme=blue-green)
